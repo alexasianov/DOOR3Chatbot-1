@@ -1,0 +1,6 @@
+@DOOR3Chatbot_1_HostAddress = http://localhost:5264
+
+GET {{DOOR3Chatbot_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
